@@ -1,26 +1,29 @@
 *{
   margin: 0;
   padding: 0;
+  color: #6633cc;
 }
 
 body{
   font-family: Arial, Helvetica,sans-serif;
-  background-color: red;
+ color: #6633cc;
+    background-image: url("Marshmello.jpg");
+    background-color: #cccccc;
   padding:0;
   margin: 0;
 
 }
 a{
-  color: #FFD700
+  color:#6633cc
 }
 a:hover{
-  color: black;
+  color: gold;
   text-decoration: none;
 }
 
 /*Navigation stlyes  */
 nav{
-  background-color: grey;
+  /* background-color: grey; */
 }
 nav ul{
   list-style: none;
@@ -37,6 +40,6 @@ nav a{
 }
 nav a:hover{
 display: inline-block;
-background-color: green;
+background-color: white;
 
 }

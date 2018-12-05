@@ -1,0 +1,19 @@
+body{
+  font-family: Arial, Helvetica,sans-serif;
+  background-color: red;
+ color: gold;
+
+}
+a{
+
+  color:gold;
+  text-decoration: none;
+}
+ul{
+  text-align: center;
+
+}
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
